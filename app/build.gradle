@@ -1,0 +1,4 @@
+plugins { id 'com.android.application' }
+android { namespace 'com.projectyar.app'; compileSdk 35
+    defaultConfig { applicationId 'com.projectyar.app'; minSdk 24; targetSdk 28; versionCode 3; versionName '2.1' }
+}
